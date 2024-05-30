@@ -1,0 +1,75 @@
+.container {
+    margin-top: 2%;
+    background-color: #000000;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px #ffffff71;
+    position: relative;
+    overflow: hidden;
+    width: 95%;
+    max-width: 100%;
+    font-size: 14px;
+    font-family: "Helvetica Nueue", Arial, Verdana, sans-serif;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: center;
+    float: center;
+  }
+
+  .cont{
+    padding: 1%;
+    margin-left: 1%;
+    background-color: #000000;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px #ffffff71;
+    position: relative;
+    overflow: hidden;
+    font-size: 14px;
+    font-family: "Helvetica Nueue", Arial, Verdana, sans-serif;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: center;
+    float: center;
+
+
+  }
+  .cont:hover{
+    box-shadow: 0px 0px 20px #00ff95;
+    transition: 0.5s;
+  }
+  .contimage{
+    padding: 1%;
+    background-color: #000000;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px #ffffff71;
+    position: relative;
+    overflow: hidden;
+    height: 2%;
+    font-size: 14px;
+    font-family: "Helvetica Nueue", Arial, Verdana, sans-serif;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: center;
+    float: center;
+
+
+  }
+
+  .contimage:hover{
+    box-shadow: 0px 0px 20px #00ff95;
+    transition: 0.5s;
+  }
+
+.txtcolor{
+color:#00ff95;
+
+
+  }
+
+  .perso{
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  }
